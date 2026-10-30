@@ -4,7 +4,7 @@
 
 **Следниот натпревар започнува тука.**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <img src="assets/product-hero.svg" width="100%" alt="VTickets — Спортски билети; концептуална визуелизација" />
 
