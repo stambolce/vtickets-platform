@@ -2,11 +2,11 @@
 
 # VTickets
 
-**Bir sonraki maçınız burada başlar.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="VTickets — Sports ticketing; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="VTickets — ürün görsel sunumu" />
+
+**Bir sonraki maçınız burada başlar.**
 
 [![Website](https://img.shields.io/badge/vtickets.mk-Official_Website-1476e8?style=for-the-badge)](https://vtickets.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://vtickets.mk/)
@@ -69,7 +69,7 @@ Fayda, maç keşfinden bilet seçimine tutarlı bir yol sunmasıdır. Maçı, ye
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [vtickets.mk](https://vtickets.mk/) |
-| Kategori | Sports ticketing |
+| Kategori | Spor biletleri |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Sunum kaynakları: [1](https://vtickets.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
